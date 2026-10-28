@@ -1,0 +1,6 @@
+# Intentionally old images: a TrueSource Viewer demo, do not run.
+services:
+  web:
+    image: nginx:1.23
+  edge-cache:
+    image: bitnami/varnish:7.1.1

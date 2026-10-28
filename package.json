@@ -1,0 +1,16 @@
+{
+  "name": "truesource-demo-storefront-ui",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Intentionally vulnerable demo for TrueSource Viewer; do not install.",
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "semver": "7.5.1"
+  },
+  "devDependencies": {
+    "postcss": "8.4.27",
+    "tailwindcss": "3.3.3"
+  }
+}
